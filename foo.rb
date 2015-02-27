@@ -1,1 +1,1 @@
-p({foo: 42, bar: false})
+p({foo: 42, bar: true})
